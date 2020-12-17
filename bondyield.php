@@ -1,4 +1,4 @@
-<?php
+<?
 /**
  *
     Basic Yield calculation class.
